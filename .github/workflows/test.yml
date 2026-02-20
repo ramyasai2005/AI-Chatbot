@@ -16,5 +16,5 @@ jobs:
         run: >
           sudo apt-get update &&
           sudo apt-get install gnat gnat gprbuild
-      -name: Build
-       run: gprbuild -j0 -u
+      - name: Build
+        run: gprbuild -j0 -u
