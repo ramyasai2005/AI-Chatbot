@@ -21,7 +21,7 @@ def home():
             </style>
         </head>
         <body>
-            <h1>Custom Ui</h1>
+            <h1>CustomUi</h1>
             <p>Flask + CI Working Successfully!</p>
         </body>
     </html>
